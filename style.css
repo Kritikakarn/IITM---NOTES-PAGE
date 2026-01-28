@@ -1,0 +1,18 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: cursive;
+    border:border-box;
+    background-color:rgb(196, 226, 226);
+}
+
+h1 {
+    color:blue;
+    border: 2px solid black;
+}
+
+.navbar {
+    height: 100px;
+    background-color: rgb(90, 14, 47);
+}
+
